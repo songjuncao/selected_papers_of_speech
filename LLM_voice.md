@@ -6,6 +6,7 @@
 - VIOLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 ## generation task
+- Pheme: Efficient and Conversational Speech Generation
 - Boosting Large Language Model for Speech Synthesis: An Empirical Study
 - Audiobox: Unified Audio Generation with Natural Language Prompts
 - IN-CONTEXT PROMPT EDITING FOR CONDITIONAL AUDIO GENERATION
@@ -27,6 +28,7 @@
 - ON DECODER-ONLY ARCHITECTURE FOR SPEECH-TO-TEXT AND LARGE LANGUAGE MODEL INTEGRATION
 
 ## NLP
+- Towards ASR Robust Spoken Language Understanding Through In-Context Learning With Word Confusion Networks
 - E-CHAT: EMOTION-SENSITIVE SPOKEN DIALOGUE SYSTEM WITH LARGE LANGUAGE MODELS
 - Towards General-Purpose Speech Abilities for Large Language Models Using Unpaired Data
 - Speech-based Slot Filling using Large Language Models
