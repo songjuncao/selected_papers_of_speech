@@ -6,6 +6,9 @@
 - VIOLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 ## generation task
+- ELLA-V: Stable Neural Codec Language Modeling with Alignment-guided Sequence Reordering
+- SonicVisionLM: Playing Sound with Vision Language Models
+- Masked Audio Generation using a Single Non-Autoregressive Transformer
 - Pheme: Efficient and Conversational Speech Generation
 - Boosting Large Language Model for Speech Synthesis: An Empirical Study
 - Audiobox: Unified Audio Generation with Natural Language Prompts
@@ -20,6 +23,8 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
+- DiarizationLM: Speaker Diarization Post-Processing with Large Language Models
 - EXTENDING WHISPER WITH PROMPT TUNING TO TARGET-SPEAKER ASR
 - An Integration of Pre-Trained Speech and Language Models for End-to-End Speech Recognition
 - LOSS MASKING IS NOT NEEDED IN DECODER-ONLY TRANSFORMER FOR DISCRETE-TOKEN BASED ASR
@@ -35,4 +40,6 @@
 - Toward Joint Language Modeling for Speech Units and Text 
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
-## 
+## codec
+- ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
+
