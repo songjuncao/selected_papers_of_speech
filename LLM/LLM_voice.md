@@ -6,6 +6,8 @@
 - VIOLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 ## generation task
+- VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech
+- SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation
 - ELLA-V: Stable Neural Codec Language Modeling with Alignment-guided Sequence Reordering
 - SonicVisionLM: Playing Sound with Vision Language Models
 - Masked Audio Generation using a Single Non-Autoregressive Transformer
