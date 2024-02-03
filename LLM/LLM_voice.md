@@ -1,4 +1,5 @@
 ## multi-task
+- SpeechComposer: Unifying Multiple Speech Tasks with Prompt Composition
 - ACOUSTIC PROMPT TUNING: EMPOWERING LARGE LANGUAGE MODELS WITH AUDITION CAPABILITIES 
 - Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
 - COSMIC: Data Efficient Instruction-tuning For Speech In-Context Learning
@@ -6,6 +7,7 @@
 - VIOLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 ## generation task
+- BATON: Aligning Text-to-Audio Model with Human Preference Feedback
 - VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech
 - SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation
 - ELLA-V: Stable Neural Codec Language Modeling with Alignment-guided Sequence Reordering
@@ -25,6 +27,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Exploring the limits of decoder-only models trained on public speech recognition corpora
 - Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
 - DiarizationLM: Speaker Diarization Post-Processing with Large Language Models
 - EXTENDING WHISPER WITH PROMPT TUNING TO TARGET-SPEAKER ASR
@@ -35,6 +38,7 @@
 - ON DECODER-ONLY ARCHITECTURE FOR SPEECH-TO-TEXT AND LARGE LANGUAGE MODEL INTEGRATION
 
 ## NLP
+- Turn-taking and Backchannel Prediction with Acoustic and Large Language Model Fusion
 - Towards ASR Robust Spoken Language Understanding Through In-Context Learning With Word Confusion Networks
 - E-CHAT: EMOTION-SENSITIVE SPOKEN DIALOGUE SYSTEM WITH LARGE LANGUAGE MODELS
 - Towards General-Purpose Speech Abilities for Large Language Models Using Unpaired Data
@@ -44,4 +48,6 @@
 - Listen, Think, and Understand
 ## codec
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
+## audio quality assessment
+- PAM: Prompting Audio-Language Models for Audio Quality Assessment
 
