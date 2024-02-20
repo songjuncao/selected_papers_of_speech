@@ -1,4 +1,7 @@
 ## multi-task
+- SLIT: Boosting Audio-Text Pre-Training via Multi-Stage Learning and Instruction Tuning
+- AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension
+- SpiRit-LM: Interleaved Spoken and Written Language Model
 - SpeechComposer: Unifying Multiple Speech Tasks with Prompt Composition
 - ACOUSTIC PROMPT TUNING: EMPOWERING LARGE LANGUAGE MODELS WITH AUDITION CAPABILITIES 
 - Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
@@ -7,12 +10,16 @@
 - VIOLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 ## generation task
+- Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations
 - BATON: Aligning Text-to-Audio Model with Human Preference Feedback
 - VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech
 - SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation
 - ELLA-V: Stable Neural Codec Language Modeling with Alignment-guided Sequence Reordering
 - SonicVisionLM: Playing Sound with Vision Language Models
 - Masked Audio Generation using a Single Non-Autoregressive Transformer
+  - meta
+  - ICLR2024
+  - [github](https://github.com/facebookresearch/audiocraft/blob/main/docs/MAGNET.md?utm_source=linkedin&utm_medium=organic_social&utm_campaign=research&utm_content=video)
 - Pheme: Efficient and Conversational Speech Generation
 - Boosting Large Language Model for Speech Synthesis: An Empirical Study
 - Audiobox: Unified Audio Generation with Natural Language Prompts
@@ -27,6 +34,8 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators
+- It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition
 - Exploring the limits of decoder-only models trained on public speech recognition corpora
 - Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
 - DiarizationLM: Speaker Diarization Post-Processing with Large Language Models
@@ -47,6 +56,7 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## audio quality assessment
 - PAM: Prompting Audio-Language Models for Audio Quality Assessment

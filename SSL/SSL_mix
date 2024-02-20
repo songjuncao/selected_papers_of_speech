@@ -1,4 +1,5 @@
 ## visual+voice
+- SpeechCLIP+: Self-supervised multi-task representation learning for speech via CLIP and speech-image data
 - Multichannel AV-wav2vec2: A Framework for Learning Multichannel Multi-Modal Speech Representation
 ## nlp+voice
 
