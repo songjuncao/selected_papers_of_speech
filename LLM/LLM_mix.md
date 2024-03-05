@@ -1,2 +1,3 @@
-MM-LLMs: Recent Advances in MultiModal Large Language Models
-On the Audio Hallucinations in Large Audio-Video Language Models
+- Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and Context-Aware Visual Speech Processing
+- MM-LLMs: Recent Advances in MultiModal Large Language Models
+- On the Audio Hallucinations in Large Audio-Video Language Models

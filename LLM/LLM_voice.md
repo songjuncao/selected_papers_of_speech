@@ -10,6 +10,7 @@
 - VIOLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 ## generation task
+- MuChin: A Chinese Colloquial Description Benchmark for Evaluating Language Models in the Field of Music
 - Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations
 - BATON: Aligning Text-to-Audio Model with Human Preference Feedback
 - VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech
@@ -47,6 +48,7 @@
 - ON DECODER-ONLY ARCHITECTURE FOR SPEECH-TO-TEXT AND LARGE LANGUAGE MODEL INTEGRATION
 
 ## NLP
+- Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations
 - Turn-taking and Backchannel Prediction with Acoustic and Large Language Model Fusion
 - Towards ASR Robust Spoken Language Understanding Through In-Context Learning With Word Confusion Networks
 - E-CHAT: EMOTION-SENSITIVE SPOKEN DIALOGUE SYSTEM WITH LARGE LANGUAGE MODELS
@@ -56,6 +58,8 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- Codec-SUPERB: An In-Depth Analysis of Sound Codec Models
+- Towards audio language modeling - an overview
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## audio quality assessment

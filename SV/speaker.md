@@ -1,0 +1,3 @@
+- Efficient Adapter Tuning of Pre-trained Speech Models for Automatic Speaker Verification
+  - University of Texas at Dallas
+  - ICASSP 2024

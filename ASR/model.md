@@ -1,3 +1,7 @@
+## general
+- Extreme Encoder Output Frame Rate Reduction: Improving Computational Latencies of Large End-to-End Models
+  - Google
+  - ICASSP 2024
 ## MoE
 - Efficient Fine-tuning of Audio Spectrogram Transformers via Soft Mixture of Adapters
 ## former
