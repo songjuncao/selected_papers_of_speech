@@ -1,3 +1,7 @@
+- TMT: Tri-Modal Translation between Speech, Image, and Text by Processing Different Modalities as Different Languages
+  - CMU
+- Beyond Language Models: Byte Models are Digital World Simulators
+  - MSRA
 - Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and Context-Aware Visual Speech Processing
 - MM-LLMs: Recent Advances in MultiModal Large Language Models
 - On the Audio Hallucinations in Large Audio-Video Language Models

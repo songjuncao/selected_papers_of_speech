@@ -1,2 +1,3 @@
-## all-in-one
+- Towards Decoupling Frontend Enhancement and Backend Recognition in Monaural Robust ASR
+- CrossNet: Leveraging Global, Cross-Band, Narrow-Band, and Positional Encoding for Single- and Multi-Channel Speaker Separation
 - Plugin Speech Enhancement: A Universal Speech Enhancement Framework Inspired by Dynamic Neural Network

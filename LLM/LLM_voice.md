@@ -1,4 +1,5 @@
 ## multi-task
+- WavLLM: Towards Robust and Adaptive Speech Large Language Model
 - SLIT: Boosting Audio-Text Pre-Training via Multi-Stage Learning and Instruction Tuning
 - AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension
 - SpiRit-LM: Interleaved Spoken and Written Language Model
@@ -10,6 +11,8 @@
 - VIOLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 ## generation task
+- WavCraft: Audio Editing and Generation with Natural Language Prompts
+  - ICLR 2024
 - MuChin: A Chinese Colloquial Description Benchmark for Evaluating Language Models in the Field of Music
 - Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations
 - BATON: Aligning Text-to-Audio Model with Human Preference Feedback
@@ -35,6 +38,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- A Cross-Modal Approach to Silent Speech with LLM-Enhanced Recognition
 - GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators
 - It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition
 - Exploring the limits of decoder-only models trained on public speech recognition corpora
@@ -58,10 +62,12 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- Gull: A Generative Multifunctional Audio Codec
 - Codec-SUPERB: An In-Depth Analysis of Sound Codec Models
 - Towards audio language modeling - an overview
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
-## audio quality assessment
+## other
+- What Do Language Models Hear? Probing for Auditory Representations in Language Models
 - PAM: Prompting Audio-Language Models for Audio Quality Assessment
 

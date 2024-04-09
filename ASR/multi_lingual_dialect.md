@@ -1,4 +1,5 @@
 ## code-switch
+- Aligning Speech to Languages to Enhance Code-switching Speech Recognition
 - An Effective Mixture-Of-Experts Approach For Code-Switching Speech Recognition Leveraging Encoder Disentanglement
 ## multi_lingual
 - OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification

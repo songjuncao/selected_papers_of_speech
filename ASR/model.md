@@ -1,4 +1,9 @@
+## adapter
+- Hierarchical Recurrent Adapters for Efficient Multi-Task Adaptation of Large Speech Models
 ## general
+- Advanced Long-Content Speech Recognition with Factorized Neural Transducer
+  - Microsoft
+  - TASLP
 - Extreme Encoder Output Frame Rate Reduction: Improving Computational Latencies of Large End-to-End Models
   - Google
   - ICASSP 2024

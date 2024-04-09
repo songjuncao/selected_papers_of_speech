@@ -1,0 +1,3 @@
+- Text-to-Audio Generation Synchronized with Videos
+- V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models
+- Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners

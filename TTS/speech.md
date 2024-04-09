@@ -1,7 +1,18 @@
 ## general
+- GLA-Grad: A Griffin-Lim Extended Waveform Generation Diffusion Model
 - VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis
 - On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models
 ## zero-shot
+- RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis
+  - MSRA
+- CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech
+  - ICLR 2024
+- VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild
+  - https://github.com/jasonppy/VoiceCraft
+- An Empirical Study of Speech Language Models for Prompt-Conditioned Speech Synthesis
+- HAM-TTS: Hierarchical Acoustic Modeling for Token-Based Zero-Shot Text-to-Speech with Model and Data Scaling
+- NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models
+  - MSRA
 - BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data
   - Amazon
 - Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like
@@ -11,6 +22,16 @@
 ## voice conversion
 
 ## multi-lingual
+- Text-Inductive Graphone-Based Language Adaptation for Low-Resource Speech Synthesis
+  - TASLP
 - Extending Multilingual Speech Synthesis to 100+ Languages without Transcribed Data
   - Google
   - ICASSP 2024
+
+## eval
+- Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech
+  - Nvidia
+  - ICLR
+
+## vocoder
+- RFWave: Multi-band Rectified Flow for Audio Waveform Reconstruction

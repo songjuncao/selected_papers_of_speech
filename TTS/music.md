@@ -1,3 +1,11 @@
+- Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models
+- Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural Language Prompt
+- MusicHiFi: Fast High-Fidelity Stereo Vocoding
+- Motifs, Phrases, and Beyond: The Modelling of Structure in Symbolic Music Generation
+- ChatMusician: Understanding and Generating Music Intrinsically with LLM
+- ByteComposer: a Human-like Melody Composition Method based on Language Model Agent
+- SongComposer: A Large Language Model for Lyric and Melody Composition in Song Generation
+- Natural Language Processing Methods for Symbolic Music Generation and Information Retrieval: a Survey
 - Symbolic Music Generation with Non-Differentiable Rule Guided Diffusion
 - Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion
 - MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models
