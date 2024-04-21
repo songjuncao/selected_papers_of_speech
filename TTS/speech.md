@@ -2,7 +2,10 @@
 - GLA-Grad: A Griffin-Lim Extended Waveform Generation Diffusion Model
 - VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis
 - On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models
+## LLM
+- Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness
 ## zero-shot
+- CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations
 - RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis
   - MSRA
 - CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech
@@ -20,6 +23,7 @@
 - Daisy-TTS: Simulating Wider Spectrum of Emotions via Prosody Embedding Decomposition
   - MBZUAI
 ## voice conversion
+- VoiceShop: A Unified Speech-to-Speech Framework for Identity-Preserving Zero-Shot Voice Editing
 
 ## multi-lingual
 - Text-Inductive Graphone-Based Language Adaptation for Low-Resource Speech Synthesis

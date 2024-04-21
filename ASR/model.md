@@ -1,3 +1,10 @@
+## joint
+- Jointly Recognizing Speech and Singing Voices Based on Multi-Task Audio Source Separation
+  - ICME 2024
+## bias
+- Deferred NAM: Low-latency Top-K Context Injection via Deferred Context Encoding for Non-Streaming ASR
+  - Google
+  - NAACL 2024
 ## adapter
 - Hierarchical Recurrent Adapters for Efficient Multi-Task Adaptation of Large Speech Models
 ## general

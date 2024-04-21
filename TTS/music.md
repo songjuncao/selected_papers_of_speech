@@ -1,3 +1,6 @@
+- Long-form music generation with latent diffusion
+- Text-to-Song: Towards Controllable Music Generation Incorporating Vocals and Accompaniment
+- MuPT: A Generative Symbolic Music Pretrained Transformer
 - Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models
 - Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural Language Prompt
 - MusicHiFi: Fast High-Fidelity Stereo Vocoding

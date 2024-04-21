@@ -1,4 +1,5 @@
 ## multi-task
+- Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training
 - WavLLM: Towards Robust and Adaptive Speech Large Language Model
 - SLIT: Boosting Audio-Text Pre-Training via Multi-Stage Learning and Instruction Tuning
 - AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension

@@ -1,3 +1,4 @@
+- Tango 2: Aligning Diffusion-based Text-to-Audio Generations through Direct Preference Optimization
 - Text-to-Audio Generation Synchronized with Videos
 - V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models
 - Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners
