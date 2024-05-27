@@ -1,3 +1,4 @@
+- Music Consistency Models
 - Long-form music generation with latent diffusion
 - Text-to-Song: Towards Controllable Music Generation Incorporating Vocals and Accompaniment
 - MuPT: A Generative Symbolic Music Pretrained Transformer

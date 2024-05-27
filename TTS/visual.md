@@ -1,0 +1,6 @@
+- Faces that Speak: Jointly Synthesising Talking Face and Speech from Text
+  - CVPR 2024
+- Semantically consistent Video-to-Audio Generation using Multimodal Language Large Model
+- FoleyGen: Visually-Guided Audio Generation
+- V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models
+- I Hear Your True Colors: Image Guided Audio Generation

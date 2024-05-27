@@ -1,3 +1,4 @@
+- Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review
 - TMT: Tri-Modal Translation between Speech, Image, and Text by Processing Different Modalities as Different Languages
   - CMU
 - Beyond Language Models: Byte Models are Digital World Simulators

@@ -1,1 +1,2 @@
+- Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models
 - Investigation of Adapter for Automatic Speech Recognition in Noisy Environment

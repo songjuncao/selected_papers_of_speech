@@ -1,4 +1,5 @@
 ## multi-task
+- SpeechVerse: A Large-scale Generalizable Audio Language Model
 - Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training
 - WavLLM: Towards Robust and Adaptive Speech Large Language Model
 - SLIT: Boosting Audio-Text Pre-Training via Multi-Stage Learning and Instruction Tuning
@@ -39,6 +40,9 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models
+  - ACL 2024
+- Unveiling the Potential of LLM-Based ASR on Chinese Open-Source Datasets
 - A Cross-Modal Approach to Silent Speech with LLM-Enhanced Recognition
 - GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators
 - It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition
@@ -69,6 +73,7 @@
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## other
+- SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models
 - What Do Language Models Hear? Probing for Auditory Representations in Language Models
 - PAM: Prompting Audio-Language Models for Audio Quality Assessment
 
