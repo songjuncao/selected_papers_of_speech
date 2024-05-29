@@ -1,3 +1,5 @@
+- Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning
+- Quality-aware Masked Diffusion Transformer for Enhanced Music Generation
 - Music Consistency Models
 - Long-form music generation with latent diffusion
 - Text-to-Song: Towards Controllable Music Generation Incorporating Vocals and Accompaniment

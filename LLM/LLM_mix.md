@@ -1,3 +1,5 @@
+- The Evolution of Multimodal Model Architectures
+- C3LLM: Conditional Multimodal Content Generation Using Large Language Models
 - Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review
 - TMT: Tri-Modal Translation between Speech, Image, and Text by Processing Different Modalities as Different Languages
   - CMU

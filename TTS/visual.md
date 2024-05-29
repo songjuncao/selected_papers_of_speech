@@ -1,3 +1,4 @@
+- Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation
 - Faces that Speak: Jointly Synthesising Talking Face and Speech from Text
   - CVPR 2024
 - Semantically consistent Video-to-Audio Generation using Multimodal Language Large Model
