@@ -1,3 +1,8 @@
+- Improving Audio Generation with Visual Enhanced Caption
+- SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond
+- AudioLCM: Text-to-Audio Generation with Latent Consistency Models
+- Frieren: Efficient Video-to-Audio Generation with Rectified Flow Matching
+- A survey of deep learning audio generation methods
 - Audio-Journey: Open Domain Latent Diffusion Based Text-To-Audio Generation
 - Tango 2: Aligning Diffusion-based Text-to-Audio Generations through Direct Preference Optimization
 - Text-to-Audio Generation Synchronized with Videos

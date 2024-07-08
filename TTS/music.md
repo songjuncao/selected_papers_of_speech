@@ -1,3 +1,14 @@
+- High Fidelity Text-Guided Music Generation and Editing via Single-Stage Flow Matching
+  - Meta
+- VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling
+  - MSRA
+- MusicFlow: Cascaded Flow Matching for Text Guided Music Generation
+  - ICML 2024
+  - Meta
+- Intelligent Text-Conditioned Music Generation
+- An Independence-promoting Loss for Music Generation with Language Models
+  - ICML 2024
+- Self-Supervised Singing Voice Pre-Training towards Speech-to-Singing Conversion
 - Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning
 - Quality-aware Masked Diffusion Transformer for Enhanced Music Generation
 - Music Consistency Models

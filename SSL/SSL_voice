@@ -1,4 +1,7 @@
 ## speech
+- MMM: Multi-Layer Multi-Residual Multi-Stream Discrete Speech Representation from Self-supervised Learning Model
+- Towards Robust Speech Representation Learning for Thousands of Languages
+  - CMU
 - A Large-Scale Evaluation of Speech Foundation Models
   - TASLP
 - SKILL: Similarity-aware Knowledge distILLation for Speech Self-Supervised Learning
@@ -9,6 +12,7 @@
 - What do self-supervised speech and speaker models learn? New findings from a cross model layer-wise analysis
 - Revisiting Self-supervised Learning of Speech Representation from a Mutual Information Perspective
 ## audio
+- animal2vec and MeerKAT: A self-supervised transformer for rare-event raw audio input and a large-scale reference dataset for bioacoustics
 - SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model
 - Masked Modeling Duo: Towards a Universal Audio Pre-training Framework
 - uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures

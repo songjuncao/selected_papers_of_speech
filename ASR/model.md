@@ -1,3 +1,8 @@
+## distill & efficiency
+- Massive End-to-end Speech Recognition Models with Time Reduction
+  - NAACL 2024
+  - Google
+- uDistil-Whisper: Label-Free Data Filtering for Knowledge Distillation via Large-Scale Pseudo Labelling
 ## joint
 - Jointly Recognizing Speech and Singing Voices Based on Multi-Task Audio Source Separation
   - ICME 2024
@@ -20,6 +25,7 @@
 - U2++ MoE: Scaling 4.7x parameters with minimal impact on RTF
 - Efficient Fine-tuning of Audio Spectrogram Transformers via Soft Mixture of Adapters
 ## former
+- Streaming Decoder-Only Automatic Speech Recognition with Discrete Speech Units: A Pilot Study
 - Augmenting conformers with structured state-space sequence models for online speech recognition
 - LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units
 - SummaryMixing: A Linear-Complexity Alternative to Self-Attention for Speech Recognition and Understanding

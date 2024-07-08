@@ -1,4 +1,6 @@
 ## multi-task
+- FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs
+- Wav2Prompt: End-to-End Speech Prompt Generation and Tuning For LLM in Zero and Few-shot Learnin
 - SpeechVerse: A Large-scale Generalizable Audio Language Model
 - Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training
 - WavLLM: Towards Robust and Adaptive Speech Large Language Model
@@ -40,6 +42,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
 - Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models
   - ACL 2024
 - Unveiling the Potential of LLM-Based ASR on Chinese Open-Source Datasets
