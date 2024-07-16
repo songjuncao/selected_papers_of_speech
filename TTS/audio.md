@@ -1,3 +1,5 @@
+- Video-to-Audio Generation with Hidden Alignment
+- Read, Watch and Scream! Sound Generation from Text and Video
 - Improving Audio Generation with Visual Enhanced Caption
 - SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond
 - AudioLCM: Text-to-Audio Generation with Latent Consistency Models

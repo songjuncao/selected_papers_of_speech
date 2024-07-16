@@ -10,6 +10,7 @@
 - Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis
 - Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness
 ## zero-shot
+- Autoregressive Speech Synthesis without Vector Quantization
 - An Investigation of Noise Robustness for Flow-Matching-Based Zero-Shot TTS
 - E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS
   - Mircosoft
@@ -60,6 +61,7 @@
 - RFWave: Multi-band Rectified Flow for Audio Waveform Reconstruction
 
 ## dataset
+- Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation
 - StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations
 
 ## light
