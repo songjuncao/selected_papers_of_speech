@@ -1,3 +1,5 @@
+- Stable Audio Open
+  - https://github.com/Stability-AI/stable-audio-tools
 - Video-to-Audio Generation with Hidden Alignment
 - Read, Watch and Scream! Sound Generation from Text and Video
 - Improving Audio Generation with Visual Enhanced Caption

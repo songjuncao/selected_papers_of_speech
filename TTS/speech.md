@@ -35,9 +35,11 @@
   - Amazon
 - Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like
 ## emotion tts
+- Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech
 - Daisy-TTS: Simulating Wider Spectrum of Emotions via Prosody Embedding Decomposition
   - MBZUAI
 ## voice conversion
+- PolySinger: Singing-Voice to Singing-Voice Translation from English to Japanese
 - Accent Conversion in Text-To-Speech Using Multi-Level VAE and Adversarial Training
 - Non-autoregressive real-time Accent Conversion model with voice cloning
 - Converting Anyone's Voice: End-to-End Expressive Voice Conversion with a Conditional Diffusion Model
@@ -69,3 +71,8 @@
 
 ## frontend
 - On the Effectiveness of Acoustic BPE in Decoder-Only TTS
+
+## expressive
+- Contrastive Context-Speech Pretraining for Expressive Text-to-Speech Synthesis
+- UniStyle: Unified Style Modeling for Speaking Style Captioning and Stylistic Speech Synthesis
+- MSceneSpeech: A Multi-Scene Speech Dataset For Expressive Speech Synthesis

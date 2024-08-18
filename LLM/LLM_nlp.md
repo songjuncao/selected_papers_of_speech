@@ -1,3 +1,5 @@
+- Q-Sparse: All Large Language Models can be Fully Sparsely-Activated
+- Scaling Synthetic Data Creation with 1,000,000,000 Personas
 - You Only Cache Once: Decoder-Decoder Architectures for Language Models
 - The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits
 - MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs

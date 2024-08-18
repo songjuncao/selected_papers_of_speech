@@ -1,3 +1,4 @@
+- MEDIC: Zero-shot Music Editing with Disentangled Inversion Control
 - High Fidelity Text-Guided Music Generation and Editing via Single-Stage Flow Matching
   - Meta
 - VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling

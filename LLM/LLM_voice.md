@@ -1,4 +1,7 @@
 ## multi-task
+- Language Model Can Listen While Speaking
+- Speech-Copilot: Leveraging Large Language Models for Speech Processing via Task Decomposition, Modularization, and Program Generation
+- Qwen2-Audio Technical Report
 - FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs
 - Wav2Prompt: End-to-End Speech Prompt Generation and Tuning For LLM in Zero and Few-shot Learnin
 - SpeechVerse: A Large-scale Generalizable Audio Language Model
@@ -70,6 +73,7 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- dMel: Speech Tokenization made Simple
 - Gull: A Generative Multifunctional Audio Codec
 - Codec-SUPERB: An In-Depth Analysis of Sound Codec Models
 - Towards audio language modeling - an overview
