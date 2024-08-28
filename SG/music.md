@@ -1,3 +1,5 @@
+- InstructME: An Instruction Guided Music Edit Framework with Latent Diffusion
+- Foundation Models for Music: A Survey
 - MEDIC: Zero-shot Music Editing with Disentangled Inversion Control
 - High Fidelity Text-Guided Music Generation and Editing via Single-Stage Flow Matching
   - Meta

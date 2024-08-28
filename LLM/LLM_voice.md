@@ -1,4 +1,6 @@
 ## multi-task
+- SpeechPrompt: Prompting Speech Language Models for Speech Processing Tasks
+  - TASLP
 - Language Model Can Listen While Speaking
 - Speech-Copilot: Leveraging Large Language Models for Speech Processing via Task Decomposition, Modularization, and Program Generation
 - Qwen2-Audio Technical Report

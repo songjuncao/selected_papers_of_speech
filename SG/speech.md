@@ -1,4 +1,5 @@
 ## general
+- Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization
 - Learning Fine-Grained Controllability on Speech Generation via Efficient Fine-Tuning
 - Attention-Constrained Inference for Robust Decoder-Only Text-to-Speech
 - GLA-Grad: A Griffin-Lim Extended Waveform Generation Diffusion Model
@@ -39,6 +40,7 @@
 - Daisy-TTS: Simulating Wider Spectrum of Emotions via Prosody Embedding Decomposition
   - MBZUAI
 ## voice conversion
+- Convert and Speak: Zero-shot Accent Conversion with Minimum Supervision
 - PolySinger: Singing-Voice to Singing-Voice Translation from English to Japanese
 - Accent Conversion in Text-To-Speech Using Multi-Level VAE and Adversarial Training
 - Non-autoregressive real-time Accent Conversion model with voice cloning
@@ -73,6 +75,7 @@
 - On the Effectiveness of Acoustic BPE in Decoder-Only TTS
 
 ## expressive
+- Style-Talker: Finetuning Audio Language Model and StyleBased Text-to-Speech Model for Fast Spoken Dialogue Generation
 - Contrastive Context-Speech Pretraining for Expressive Text-to-Speech Synthesis
 - UniStyle: Unified Style Modeling for Speaking Style Captioning and Stylistic Speech Synthesis
 - MSceneSpeech: A Multi-Scene Speech Dataset For Expressive Speech Synthesis

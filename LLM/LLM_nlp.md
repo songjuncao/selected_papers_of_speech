@@ -1,3 +1,6 @@
+- The Llama 3 Herd of Models
+- Apple Intelligence Foundation Language Models
+- Large Language Monkeys: Scaling Inference Compute with Repeated Sampling
 - Q-Sparse: All Large Language Models can be Fully Sparsely-Activated
 - Scaling Synthetic Data Creation with 1,000,000,000 Personas
 - You Only Cache Once: Decoder-Decoder Architectures for Language Models

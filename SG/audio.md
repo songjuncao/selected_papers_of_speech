@@ -1,3 +1,4 @@
+- Efficient Autoregressive Audio Modeling via Next-Scale Prediction
 - Stable Audio Open
   - https://github.com/Stability-AI/stable-audio-tools
 - Video-to-Audio Generation with Hidden Alignment
