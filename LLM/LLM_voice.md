@@ -1,4 +1,5 @@
 ## multi-task
+- LLaMA-Omni: Seamless Speech Interaction with Large Language Models
 - SpeechPrompt: Prompting Speech Language Models for Speech Processing Tasks
   - TASLP
 - Language Model Can Listen While Speaking
@@ -47,6 +48,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Faster Speech-LLaMA Inference with Multi-token Prediction
 - BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
 - Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models
   - ACL 2024
@@ -75,6 +77,8 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- BigCodec: Pushing the Limits of Low-Bitrate Neural Speech Codec
+- Investigating Neural Audio Codecs for Speech Language Model-Based Speech Generation
 - dMel: Speech Tokenization made Simple
 - Gull: A Generative Multifunctional Audio Codec
 - Codec-SUPERB: An In-Depth Analysis of Sound Codec Models

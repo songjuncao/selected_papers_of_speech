@@ -1,3 +1,4 @@
+- Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis
 - Efficient Autoregressive Audio Modeling via Next-Scale Prediction
 - Stable Audio Open
   - https://github.com/Stability-AI/stable-audio-tools
