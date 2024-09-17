@@ -2,6 +2,7 @@
 - Aligning Speech to Languages to Enhance Code-switching Speech Recognition
 - An Effective Mixture-Of-Experts Approach For Code-Switching Speech Recognition Leveraging Encoder Disentanglement
 ## multi_lingual
+- Exploring SSL Discrete Tokens for Multilingual ASR
 - Romanization Encoding For Multilingual ASR
 - Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting
 - Anatomy of Industrial Scale Multilingual ASR

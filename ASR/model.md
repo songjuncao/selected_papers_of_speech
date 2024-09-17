@@ -15,6 +15,7 @@
 - A Comparison of Parameter-Efficient ASR Domain Adaptation Methods for Universal Speech and Language Models
 - Hierarchical Recurrent Adapters for Efficient Multi-Task Adaptation of Large Speech Models
 ## general
+- MC-Whisper: Extending Speech Foundation Models to Multichannel Distant Speech Recognition
 - Advanced Long-Content Speech Recognition with Factorized Neural Transducer
   - Microsoft
   - TASLP

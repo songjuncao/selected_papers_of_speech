@@ -1,3 +1,4 @@
+- FLAMO: An Open-Source Library for Frequency-Domain Differentiable Audio Processing
 - A Variance-Preserving Interpolation Approach for Diffusion Models with Applications to Single Channel Speech Enhancement and Recognition
 - Towards Decoupling Frontend Enhancement and Backend Recognition in Monaural Robust ASR
 - CrossNet: Leveraging Global, Cross-Band, Narrow-Band, and Positional Encoding for Single- and Multi-Channel Speaker Separation

@@ -6,6 +6,7 @@
 - VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis
 - On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models
 ## LLM
+- ENABLING BEAM SEARCH FOR LANGUAGE MODEL-BASED TEXT-TO-SPEECH SYNTHESIS
 - SSR-Speech: Towards Stable, Safe and Robust Zero-shot Text-based Speech Editing and Synthesis
 - High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer and Group Masked Language Model
   - interspeech 2024
@@ -64,10 +65,6 @@
 ## vocoder
 - BiVocoder: A Bidirectional Neural Vocoder Integrating Feature Extraction and Waveform Generation
 - RFWave: Multi-band Rectified Flow for Audio Waveform Reconstruction
-
-## dataset
-- Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation
-- StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations
 
 ## light & fast
 - Super Monotonic Alignment Search

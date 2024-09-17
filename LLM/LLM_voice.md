@@ -77,6 +77,8 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- INVESTIGATING NEURAL AUDIO CODECS FOR SPEECH LANGUAGE MODEL-BASED SPEECH GENERATION
+- Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model
 - BigCodec: Pushing the Limits of Low-Bitrate Neural Speech Codec
 - Investigating Neural Audio Codecs for Speech Language Model-Based Speech Generation
 - dMel: Speech Tokenization made Simple
