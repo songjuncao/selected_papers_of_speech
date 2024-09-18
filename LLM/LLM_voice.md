@@ -1,4 +1,5 @@
 ## multi-task
+- Enhancing Multilingual Speech Generation and Recognition Abilities in LLMs with Constructed Code-switched Data
 - LLaMA-Omni: Seamless Speech Interaction with Large Language Models
 - SpeechPrompt: Prompting Speech Language Models for Speech Processing Tasks
   - TASLP

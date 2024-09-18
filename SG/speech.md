@@ -1,4 +1,5 @@
 ## general
+- Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation
 - Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization
 - Learning Fine-Grained Controllability on Speech Generation via Efficient Fine-Tuning
 - Attention-Constrained Inference for Robust Decoder-Only Text-to-Speech
