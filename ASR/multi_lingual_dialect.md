@@ -13,6 +13,7 @@
 - Efficient Adapter Finetuning for Tail Languages in Streaming Multilingual ASR
 - LUPET: Incorporating Hierarchical Information Path into Multilingual ASR
 ## multi_dialect
+- M2R-Whisper: Multi-stage and Multi-scale Retrieval Augmentation for Enhancing Whisper
 
 ## dataset
 - Towards Robust Speech Representation Learning for Thousands of Languages

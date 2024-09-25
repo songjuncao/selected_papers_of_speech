@@ -1,3 +1,4 @@
+- Seed-Music: A Unified Framework for High Quality and Controlled Music Generation
 - InstructME: An Instruction Guided Music Edit Framework with Latent Diffusion
 - Foundation Models for Music: A Survey
 - MEDIC: Zero-shot Music Editing with Disentangled Inversion Control

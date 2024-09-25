@@ -1,4 +1,5 @@
 ## multi-task
+- Moshi: a speech-text foundation model for real-time dialogue
 - Enhancing Multilingual Speech Generation and Recognition Abilities in LLMs with Constructed Code-switched Data
 - LLaMA-Omni: Seamless Speech Interaction with Large Language Models
 - SpeechPrompt: Prompting Speech Language Models for Speech Processing Tasks
@@ -78,6 +79,8 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech
+- NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization
 - INVESTIGATING NEURAL AUDIO CODECS FOR SPEECH LANGUAGE MODEL-BASED SPEECH GENERATION
 - Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model
 - BigCodec: Pushing the Limits of Low-Bitrate Neural Speech Codec
