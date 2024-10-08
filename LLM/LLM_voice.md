@@ -50,6 +50,11 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models
+  - EMNLP 2024
+- PALM: Few-Shot Prompt Learning for Audio Language Models
+- Frozen Large Language Models Can Perceive Paralinguistic Aspects of Speech
+- Speech Recognition Rescoring with Large Speech-Text Foundation Models
 - Faster Speech-LLaMA Inference with Multi-token Prediction
 - BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
 - Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models
@@ -79,6 +84,7 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- Analyzing and Mitigating Inconsistency in Discrete Audio Tokens for Neural Codec Language Models
 - ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech
 - NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization
 - INVESTIGATING NEURAL AUDIO CODECS FOR SPEECH LANGUAGE MODEL-BASED SPEECH GENERATION

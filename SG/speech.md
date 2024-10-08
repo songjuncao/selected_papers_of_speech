@@ -41,6 +41,9 @@
   - Amazon
 - Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like
 ## emotion tts
+- EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control
+  - EMNLP 2024
+- Emotional Dimension Control in Language Model-Based Text-to-Speech: Spanning a Broad Spectrum of Human Emotions
 - Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech
 - Daisy-TTS: Simulating Wider Spectrum of Emotions via Prosody Embedding Decomposition
   - MBZUAI

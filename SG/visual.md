@@ -1,3 +1,8 @@
+- Movie Gen: A Cast of Media Foundation Models
+  - Meta
+- From Vision to Audio and Beyond: A Unified Model for Audio-Visual Representation and Generation
+  - ICML 2024
+- FastTalker: Jointly Generating Speech and Conversational Gestures from Text
 - Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation
 - Faces that Speak: Jointly Synthesising Talking Face and Speech from Text
   - CVPR 2024

@@ -1,3 +1,5 @@
+- OpenSep: Leveraging Large Language Models with Textual Inversion for Open World Audio Separation
+  - EMNLP
 - FLAMO: An Open-Source Library for Frequency-Domain Differentiable Audio Processing
 - A Variance-Preserving Interpolation Approach for Diffusion Models with Applications to Single Channel Speech Enhancement and Recognition
 - Towards Decoupling Frontend Enhancement and Backend Recognition in Monaural Robust ASR

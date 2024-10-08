@@ -26,6 +26,7 @@
 - U2++ MoE: Scaling 4.7x parameters with minimal impact on RTF
 - Efficient Fine-tuning of Audio Spectrogram Transformers via Soft Mixture of Adapters
 ## former
+- Are Transformers in Pre-trained LM A Good ASR Encoder? An Empirical Study
 - Streaming Decoder-Only Automatic Speech Recognition with Discrete Speech Units: A Pilot Study
 - Augmenting conformers with structured state-space sequence models for online speech recognition
 - LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units
