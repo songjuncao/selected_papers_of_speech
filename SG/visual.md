@@ -1,3 +1,4 @@
+- LLM Gesticulator: Leveraging Large Language Models for Scalable and Controllable Co-Speech Gesture Synthesis
 - Movie Gen: A Cast of Media Foundation Models
   - Meta
 - From Vision to Audio and Beyond: A Unified Model for Audio-Visual Representation and Generation

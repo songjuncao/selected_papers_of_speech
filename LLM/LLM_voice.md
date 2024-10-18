@@ -1,4 +1,5 @@
 ## multi-task
+- Recent Advances in Speech Language Models: A Survey
 - Moshi: a speech-text foundation model for real-time dialogue
 - Enhancing Multilingual Speech Generation and Recognition Abilities in LLMs with Constructed Code-switched Data
 - LLaMA-Omni: Seamless Speech Interaction with Large Language Models
@@ -50,6 +51,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Efficient Streaming LLM for Speech Recognition
 - Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models
   - EMNLP 2024
 - PALM: Few-Shot Prompt Learning for Audio Language Models

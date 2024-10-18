@@ -7,6 +7,7 @@
 - VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis
 - On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models
 ## LLM
+- Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding
 - Speaking from Coarse to Fine: Improving Neural Codec Language Model via Multi-Scale Speech Coding and Generation
 - ENABLING BEAM SEARCH FOR LANGUAGE MODEL-BASED TEXT-TO-SPEECH SYNTHESIS
 - SSR-Speech: Towards Stable, Safe and Robust Zero-shot Text-based Speech Editing and Synthesis
@@ -15,6 +16,7 @@
 - Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis
 - Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness
 ## zero-shot
+- F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching
 - Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models
 - Autoregressive Speech Synthesis without Vector Quantization
 - An Investigation of Noise Robustness for Flow-Matching-Based Zero-Shot TTS

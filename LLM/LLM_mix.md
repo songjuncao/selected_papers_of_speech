@@ -1,3 +1,4 @@
+- Mini-Omni2: Towards Open-source GPT-4o Model with Vision, Speech and Duplex
 - The Evolution of Multimodal Model Architectures
 - C3LLM: Conditional Multimodal Content Generation Using Large Language Models
 - Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review
