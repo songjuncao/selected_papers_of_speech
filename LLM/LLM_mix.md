@@ -1,3 +1,6 @@
+- Scaling Speech-Text Pre-training with Synthetic Interleaved Data
+- SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation
+- WavChat: A Survey of Spoken Dialogue Models
 - Mini-Omni2: Towards Open-source GPT-4o Model with Vision, Speech and Duplex
 - The Evolution of Multimodal Model Architectures
 - C3LLM: Conditional Multimodal Content Generation Using Large Language Models

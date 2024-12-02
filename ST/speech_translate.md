@@ -1,3 +1,4 @@
+- Direct Speech-to-Speech Neural Machine Translation: A Survey
 - Recent Advances in End-to-End Simultaneous Speech Translation
 - SeamlessExpressiveLM: Speech Language Model for Expressive Speech-to-Speech Translation with Chain-of-Thought
 - TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation

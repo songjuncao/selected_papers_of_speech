@@ -1,4 +1,5 @@
 ## general
+- STTATTS: Unified Speech-To-Text And Text-To-Speech Model
 - Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation
 - Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization
 - Learning Fine-Grained Controllability on Speech Generation via Efficient Fine-Tuning
@@ -7,6 +8,7 @@
 - VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis
 - On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models
 ## LLM
+- Fast and High-Quality Auto-Regressive Speech Synthesis via Speculative Decoding
 - Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding
 - Speaking from Coarse to Fine: Improving Neural Codec Language Model via Multi-Scale Speech Coding and Generation
 - ENABLING BEAM SEARCH FOR LANGUAGE MODEL-BASED TEXT-TO-SPEECH SYNTHESIS

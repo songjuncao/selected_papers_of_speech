@@ -1,3 +1,4 @@
+- Gotta Hear Them All: Sound Source-Aware Vision to Audio Generation
 - LLM Gesticulator: Leveraging Large Language Models for Scalable and Controllable Co-Speech Gesture Synthesis
 - Movie Gen: A Cast of Media Foundation Models
   - Meta

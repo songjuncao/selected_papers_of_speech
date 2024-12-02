@@ -1,4 +1,8 @@
 ## multi-task
+- VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning
+- OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation
+- A Survey on Speech Large Language Models
+- Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation
 - Recent Advances in Speech Language Models: A Survey
 - Moshi: a speech-text foundation model for real-time dialogue
 - Enhancing Multilingual Speech Generation and Recognition Abilities in LLMs with Constructed Code-switched Data
@@ -100,6 +104,8 @@
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## other
+- State-Space Large Audio Language Models
+- A Massive Multi-Task Audio Understanding and Reasoning Benchmark
 - SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models
 - What Do Language Models Hear? Probing for Auditory Representations in Language Models
 - PAM: Prompting Audio-Language Models for Audio Quality Assessment

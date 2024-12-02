@@ -1,3 +1,4 @@
+- Video-Guided Foley Sound Generation with Multimodal Controls
 - STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment
 - Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis
 - Efficient Autoregressive Audio Modeling via Next-Scale Prediction
