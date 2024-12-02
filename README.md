@@ -10,3 +10,4 @@ This project will track the latest papers of speech/audio/music, especially for 
 - SV: speaker verification
 - SG: speech/audio/music generation
 - CV: computer vision
+- SD: speech/audio/music detention

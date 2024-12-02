@@ -90,6 +90,8 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- TS3-Codec: Transformer-Based Simple Streaming Single Codec
+- Scaling Transformers for Low-Bitrate High-Quality Speech Coding
 - Analyzing and Mitigating Inconsistency in Discrete Audio Tokens for Neural Codec Language Models
 - ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech
 - NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization
