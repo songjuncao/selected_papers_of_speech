@@ -1,3 +1,5 @@
+- It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model
+- OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows
 - Gotta Hear Them All: Sound Source-Aware Vision to Audio Generation
 - LLM Gesticulator: Leveraging Large Language Models for Scalable and Controllable Co-Speech Gesture Synthesis
 - Movie Gen: A Cast of Media Foundation Models

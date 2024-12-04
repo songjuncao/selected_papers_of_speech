@@ -55,6 +55,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- AlignFormer: Modality Matching Can Achieve Better Zero-shot Instruction-Following Speech-LLM
 - Efficient Streaming LLM for Speech Recognition
 - Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models
   - EMNLP 2024

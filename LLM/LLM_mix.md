@@ -1,3 +1,4 @@
+- GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot
 - Scaling Speech-Text Pre-training with Synthetic Interleaved Data
 - SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation
 - WavChat: A Survey of Spoken Dialogue Models
