@@ -1,3 +1,5 @@
+- GVMGen: A General Video-to-Music Generation Model With Hierarchical Attentions
+  - AAAI 2025
 - Seed-Music: A Unified Framework for High Quality and Controlled Music Generation
 - InstructME: An Instruction Guided Music Edit Framework with Latent Diffusion
 - Foundation Models for Music: A Survey

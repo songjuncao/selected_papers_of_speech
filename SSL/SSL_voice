@@ -1,4 +1,6 @@
 ## speech
+- CA-SSLR: Condition-Aware Self-Supervised Learning Representation for Generalized Speech Processing
+  - NIPS 2024
 - k2SSL: A Faster and Better Framework for Self-Supervised Speech Representation Learning
 - Do Discrete Self-Supervised Representations of Speech Capture Tone Distinctions?
 - What Do Speech Foundation Models Not Learn About Speech?
@@ -23,3 +25,5 @@
 - Masked Modeling Duo: Towards a Universal Audio Pre-training Framework
 - uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures
 - EAT: Self-Supervised Pre-Training with Efficient Audio Transformer
+## music
+- MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization

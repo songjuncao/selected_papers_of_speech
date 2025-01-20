@@ -1,3 +1,6 @@
+- TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization
+- Tri-Ergon: Fine-grained Video-to-Audio Generation with Multi-modal Conditions and LUFS Control
+  - AAAI 2025
 - Video-Guided Foley Sound Generation with Multimodal Controls
 - STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment
 - Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis

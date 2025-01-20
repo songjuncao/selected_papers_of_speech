@@ -1,3 +1,6 @@
+- MinMo: A Multimodal Large Language Model for Seamless Voice Interaction
+- OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios
+- Next Token Prediction Towards Multimodal Intelligence: A ComprehensiveSurvey
 - GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot
 - Scaling Speech-Text Pre-training with Synthetic Interleaved Data
 - SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation

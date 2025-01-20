@@ -8,6 +8,7 @@
 - VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis
 - On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models
 ## LLM
+- Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey
 - Fast and High-Quality Auto-Regressive Speech Synthesis via Speculative Decoding
 - Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding
 - Speaking from Coarse to Fine: Improving Neural Codec Language Model via Multi-Scale Speech Coding and Generation
@@ -45,6 +46,7 @@
   - Amazon
 - Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like
 ## emotion tts
+- PROEMO: Prompt-Driven Text-to-Speech Synthesis Based on Emotion and Intensity Control
 - EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control
   - EMNLP 2024
 - Emotional Dimension Control in Language Model-Based Text-to-Speech: Spanning a Broad Spectrum of Human Emotions
@@ -61,6 +63,7 @@
 - VoiceShop: A Unified Speech-to-Speech Framework for Identity-Preserving Zero-Shot Voice Editing
 
 ## multi-lingual
+- CrossSpeech++: Cross-lingual Speech Synthesis with Decoupled Language and Speaker Generation
 - Text-Inductive Graphone-Based Language Adaptation for Low-Resource Speech Synthesis
   - TASLP
 - Extending Multilingual Speech Synthesis to 100+ Languages without Transcribed Data
@@ -68,6 +71,7 @@
   - ICASSP 2024
 
 ## eval
+- VERSA: A Versatile Evaluation Toolkit for Speech, Audio, and Music
 - Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech
   - Nvidia
   - ICLR
@@ -84,7 +88,12 @@
 - On the Effectiveness of Acoustic BPE in Decoder-Only TTS
 
 ## expressive
+- FleSpeech: Flexibly Controllable Speech Generation with Various Prompts
+- DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions
 - Style-Talker: Finetuning Audio Language Model and StyleBased Text-to-Speech Model for Fast Spoken Dialogue Generation
 - Contrastive Context-Speech Pretraining for Expressive Text-to-Speech Synthesis
 - UniStyle: Unified Style Modeling for Speaking Style Captioning and Stylistic Speech Synthesis
 - MSceneSpeech: A Multi-Scene Speech Dataset For Expressive Speech Synthesis
+
+## super resolution
+- HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution

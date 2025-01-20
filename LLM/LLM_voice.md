@@ -91,6 +91,8 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- SECodec: Structural Entropy-based Compressive Speech Representation Codec for Speech Language Models
+  - AAAI 2025
 - TS3-Codec: Transformer-Based Simple Streaming Single Codec
 - Scaling Transformers for Low-Bitrate High-Quality Speech Coding
 - Analyzing and Mitigating Inconsistency in Discrete Audio Tokens for Neural Codec Language Models
@@ -107,6 +109,7 @@
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## other
+- Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model
 - State-Space Large Audio Language Models
 - A Massive Multi-Task Audio Understanding and Reasoning Benchmark
 - SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models
