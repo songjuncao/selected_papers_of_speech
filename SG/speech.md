@@ -1,4 +1,5 @@
 ## general
+- Advanced Zero-Shot Text-to-Speech for Background Removal and Preservation with Controllable Masked Speech Prediction
 - STTATTS: Unified Speech-To-Text And Text-To-Speech Model
 - Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation
 - Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization
@@ -8,6 +9,8 @@
 - VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis
 - On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models
 ## LLM
+- Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis
+- FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching
 - Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey
 - Fast and High-Quality Auto-Regressive Speech Synthesis via Speculative Decoding
 - Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding

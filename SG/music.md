@@ -1,3 +1,4 @@
+- OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models
 - GVMGen: A General Video-to-Music Generation Model With Hierarchical Attentions
   - AAAI 2025
 - Seed-Music: A Unified Framework for High Quality and Controlled Music Generation

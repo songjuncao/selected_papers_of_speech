@@ -1,4 +1,5 @@
 ## multi-task
+- WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models
 - VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning
 - OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation
 - A Survey on Speech Large Language Models

@@ -1,3 +1,4 @@
+- Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention
 - s1: Simple test-time scaling
 - The Llama 3 Herd of Models
 - Apple Intelligence Foundation Language Models
