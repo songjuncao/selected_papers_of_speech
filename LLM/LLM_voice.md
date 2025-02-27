@@ -1,4 +1,9 @@
 ## multi-task
+- Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM
+- ESPnet-SpeechLM: An Open Speech Language Model Toolkit
+- AAD-LLM: Neural Attention-Driven Auditory Scene Understanding
+- Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction
+- Slamming: Training a Speech Language Model on One GPU in a Day
 - WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models
 - VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning
 - OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation
@@ -56,6 +61,8 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Retrieval-Augmented Speech Recognition Approach for Domain Challenges
+- Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders
 - AlignFormer: Modality Matching Can Achieve Better Zero-shot Instruction-Following Speech-LLM
 - Efficient Streaming LLM for Speech Recognition
 - Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models
