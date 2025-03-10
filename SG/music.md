@@ -1,3 +1,4 @@
+- InspireMusic: Integrating Super Resolution and Large Language Model for High-Fidelity Long-Form Music Generation
 - OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models
 - GVMGen: A General Video-to-Music Generation Model With Hierarchical Attentions
   - AAAI 2025

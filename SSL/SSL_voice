@@ -1,4 +1,6 @@
 ## speech
+- UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation
+  - ICLR 2025
 - CA-SSLR: Condition-Aware Self-Supervised Learning Representation for Generalized Speech Processing
   - NIPS 2024
 - k2SSL: A Faster and Better Framework for Self-Supervised Speech Representation Learning

@@ -1,1 +1,3 @@
+- The ICME 2025 Audio Encoder Capability Challenge
+  - https://dataoceanai.github.io/ICME2025-Audio-Encoder-Challenge
 - FAST: Fast Audio Spectrogram Transformer

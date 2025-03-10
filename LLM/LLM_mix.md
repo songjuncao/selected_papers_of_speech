@@ -1,3 +1,4 @@
+- Nexus-O: An Omni-Perceptive And -Interactive Model for Language, Audio, And Vision
 - A Preliminary Exploration with GPT-4o Voice Mode
 - Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction
 - MinMo: A Multimodal Large Language Model for Seamless Voice Interaction
