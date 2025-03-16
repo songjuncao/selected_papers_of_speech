@@ -1,3 +1,6 @@
+- Synchronized Video-to-Audio Generation via MelQuantization-Continuum Decomposition
+  - CVPR 2025
+- MACS: Multi-source Audio-to-image Generation with Contextual Significance and Semantic Alignment
 - It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model
 - OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows
 - Gotta Hear Them All: Sound Source-Aware Vision to Audio Generation

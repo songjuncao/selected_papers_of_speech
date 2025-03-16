@@ -1,0 +1,5 @@
+- Training and Inference Efficiency of Encoder-Decoder Speech Models
+  - Nvidia
+- Quantization for OpenAI’s Whisper Models: A Comparative Analysis
+- Not All Weights Are Created Equal: Enhancing Energy Efficiency in On-Device Streaming Speech Recognition
+  - Meta

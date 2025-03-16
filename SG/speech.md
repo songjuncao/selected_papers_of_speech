@@ -102,3 +102,7 @@
 
 ## super resolution
 - HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution
+
+## visual
+- DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility
+  - NAACL 2025

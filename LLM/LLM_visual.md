@@ -1,1 +1,2 @@
+- Quality Over Quantity? LLM-Based Curation for a Data-Efficient Audio-Video Foundation Model
 - V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models

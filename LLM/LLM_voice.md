@@ -61,6 +61,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Adaptive Inner Speech-Text Alignment for LLM-based Speech Translation
 - Retrieval-Augmented Speech Recognition Approach for Domain Challenges
 - Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders
 - AlignFormer: Modality Matching Can Achieve Better Zero-shot Instruction-Following Speech-LLM
@@ -89,6 +90,7 @@
 - ON DECODER-ONLY ARCHITECTURE FOR SPEECH-TO-TEXT AND LARGE LANGUAGE MODEL INTEGRATION
 
 ## NLP
+- Mellow: a small audio language model for reasoning
 - Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations
 - Turn-taking and Backchannel Prediction with Acoustic and Large Language Model Fusion
 - Towards ASR Robust Spoken Language Understanding Through In-Context Learning With Word Confusion Networks

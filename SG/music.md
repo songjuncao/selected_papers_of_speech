@@ -1,3 +1,5 @@
+- FilmComposer: LLM-Driven Music Production for Silent Film Clips
+- YuE: Scaling Open Foundation Models for Long-Form Music Generation
 - InspireMusic: Integrating Super Resolution and Large Language Model for High-Fidelity Long-Form Music Generation
 - OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models
 - GVMGen: A General Video-to-Music Generation Model With Hierarchical Attentions
