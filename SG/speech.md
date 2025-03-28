@@ -1,4 +1,5 @@
 ## general
+- FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System
 - Advanced Zero-Shot Text-to-Speech for Background Removal and Preservation with Controllable Masked Speech Prediction
 - STTATTS: Unified Speech-To-Text And Text-To-Speech Model
 - Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation

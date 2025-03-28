@@ -1,3 +1,4 @@
+- Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation
 - FilmComposer: LLM-Driven Music Production for Silent Film Clips
 - YuE: Scaling Open Foundation Models for Long-Form Music Generation
 - InspireMusic: Integrating Super Resolution and Large Language Model for High-Fidelity Long-Form Music Generation

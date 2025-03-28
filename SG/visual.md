@@ -1,3 +1,5 @@
+- From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech
+  - CVPR 2025
 - Synchronized Video-to-Audio Generation via MelQuantization-Continuum Decomposition
   - CVPR 2025
 - MACS: Multi-source Audio-to-image Generation with Contextual Significance and Semantic Alignment

@@ -90,6 +90,7 @@
 - ON DECODER-ONLY ARCHITECTURE FOR SPEECH-TO-TEXT AND LARGE LANGUAGE MODEL INTEGRATION
 
 ## NLP
+- Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering
 - Mellow: a small audio language model for reasoning
 - Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations
 - Turn-taking and Backchannel Prediction with Acoustic and Large Language Model Fusion
