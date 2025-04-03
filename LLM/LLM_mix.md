@@ -1,3 +1,4 @@
+- AURELIA: Test-time Reasoning Distillation in Audio-Visual LLMs
 - Qwen2.5-Omni Technical Report
 - Nexus-O: An Omni-Perceptive And -Interactive Model for Language, Audio, And Vision
 - A Preliminary Exploration with GPT-4o Voice Mode
