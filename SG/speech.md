@@ -24,6 +24,7 @@
 - Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis
 - Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness
 ## zero-shot
+- F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization
 - Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis
 - F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching
 - Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models

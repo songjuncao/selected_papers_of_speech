@@ -121,6 +121,7 @@
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## other
+- Scaling Analysis of Interleaved Speech-Text Language Models
 - Scaling Auditory Cognition via Test-Time Compute in Audio Language Models
 - Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model
 - State-Space Large Audio Language Models
