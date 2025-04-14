@@ -102,6 +102,7 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling
 - M2D2: Exploring General-purpose Audio-Language Representations Beyond CLAP
 - SECodec: Structural Entropy-based Compressive Speech Representation Codec for Speech Language Models
   - AAAI 2025
