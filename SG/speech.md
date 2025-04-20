@@ -1,4 +1,7 @@
 ## general
+- Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis
+- Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation
+- GOAT-TTS: LLM-based Text-To-Speech Generation Optimized via A Dual-Branch Architecture
 - FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System
 - Advanced Zero-Shot Text-to-Speech for Background Removal and Preservation with Controllable Masked Speech Prediction
 - STTATTS: Unified Speech-To-Text And Text-To-Speech Model
@@ -53,6 +56,7 @@
   - Amazon
 - Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like
 ## emotion tts
+- EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting
 - PROEMO: Prompt-Driven Text-to-Speech Synthesis Based on Emotion and Intensity Control
 - EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control
   - EMNLP 2024

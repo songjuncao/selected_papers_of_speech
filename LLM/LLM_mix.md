@@ -1,3 +1,4 @@
+- On The Landscape of Spoken Language Models: A Comprehensive Survey
 - ALIGNED BETTER, LISTEN BETTER FOR AUDIO-VISUAL LARGE LANGUAGE MODELS
   - ICLR 2025
 - AURELIA: Test-time Reasoning Distillation in Audio-Visual LLMs
