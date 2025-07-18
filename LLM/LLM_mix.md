@@ -1,3 +1,7 @@
+- Voxtral
+- DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment
+- Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models
+- Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model
 - On The Landscape of Spoken Language Models: A Comprehensive Survey
 - ALIGNED BETTER, LISTEN BETTER FOR AUDIO-VISUAL LARGE LANGUAGE MODELS
   - ICLR 2025

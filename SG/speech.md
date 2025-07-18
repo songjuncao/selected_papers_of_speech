@@ -27,6 +27,7 @@
 - Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis
 - Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness
 ## zero-shot
+- CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training
 - F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization
 - Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis
 - F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching
@@ -82,6 +83,7 @@
   - ICASSP 2024
 
 ## eval
+- INSTRUCTTTSEVAL: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems
 - VERSA: A Versatile Evaluation Toolkit for Speech, Audio, and Music
 - Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech
   - Nvidia
