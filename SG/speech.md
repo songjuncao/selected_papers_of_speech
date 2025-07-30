@@ -13,6 +13,7 @@
 - VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis
 - On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models
 ## LLM
+- TTS-1 Technical Report
 - Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens
 - Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis
 - FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching
