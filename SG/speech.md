@@ -1,4 +1,5 @@
 ## general
+- Next Tokens Denoising for Speech Synthesis
 - Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis
 - Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation
 - GOAT-TTS: LLM-based Text-To-Speech Generation Optimized via A Dual-Branch Architecture
