@@ -1,3 +1,4 @@
+- AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation
 - AudioX: Diffusion Transformer for Anything-to-Audio Generation
 - TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization
 - Tri-Ergon: Fine-grained Video-to-Audio Generation with Multi-modal Conditions and LUFS Control
