@@ -1,4 +1,5 @@
 ## multi-task
+- LLaSO: A Foundational Framework for Reproducible Research in Large Language and Speech Model
 - Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM
 - ESPnet-SpeechLM: An Open Speech Language Model Toolkit
 - AAD-LLM: Neural Attention-Driven Auditory Scene Understanding
@@ -61,6 +62,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Joint decoding method for controllable contextual speech recognition based on Speech LLM
 - Adaptive Inner Speech-Text Alignment for LLM-based Speech Translation
 - Retrieval-Augmented Speech Recognition Approach for Domain Challenges
 - Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders
@@ -90,6 +92,7 @@
 - ON DECODER-ONLY ARCHITECTURE FOR SPEECH-TO-TEXT AND LARGE LANGUAGE MODEL INTEGRATION
 
 ## NLP
+- Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning
 - Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering
 - Mellow: a small audio language model for reasoning
 - Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations
@@ -102,6 +105,7 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models
 - TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling
 - M2D2: Exploring General-purpose Audio-Language Representations Beyond CLAP
 - SECodec: Structural Entropy-based Compressive Speech Representation Codec for Speech Language Models
@@ -121,7 +125,11 @@
 - Towards audio language modeling - an overview
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
+## benchmark
+- When Audio and Text Disagree: Benchmarking Text Bias in Large Audio-Language Models under Cross-Modal Inconsistencies
+- MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic Evaluation of Audio General Intelligence
 ## other
+- What do Speech Foundation Models Learn? Analysis and Applications
 - FULL-DUPLEX-BENCH V1.5: Evaluating Overlap Handling for Full-Duplex Speech Models
 - Scaling Analysis of Interleaved Speech-Text Language Models
 - Scaling Auditory Cognition via Test-Time Compute in Audio Language Models
