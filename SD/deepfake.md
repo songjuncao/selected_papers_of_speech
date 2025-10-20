@@ -1,4 +1,5 @@
 ## speech
+- Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models
 - DeePen: Penetration Testing for Audio Deepfake Detection
 - Benchmarking Audio Deepfake Detection Robustness in Real-world Communication Scenarios
 - Improving Generalization for AI-Synthesized Voice Detection

@@ -14,6 +14,8 @@
 - VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis
 - On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models
 ## LLM
+- VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+- FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot
 - TTS-1 Technical Report
 - Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens
 - Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis
@@ -29,6 +31,7 @@
 - Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis
 - Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness
 ## zero-shot
+- DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation
 - CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training
 - F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization
 - Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis
@@ -103,6 +106,7 @@
 - On the Effectiveness of Acoustic BPE in Decoder-Only TTS
 
 ## expressive
+- VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions
 - FleSpeech: Flexibly Controllable Speech Generation with Various Prompts
 - DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions
 - Style-Talker: Finetuning Audio Language Model and StyleBased Text-to-Speech Model for Fast Spoken Dialogue Generation
@@ -116,3 +120,6 @@
 ## visual
 - DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility
   - NAACL 2025
+
+## conversation
+- DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching

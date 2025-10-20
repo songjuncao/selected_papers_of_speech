@@ -62,6 +62,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception
 - Joint decoding method for controllable contextual speech recognition based on Speech LLM
 - Adaptive Inner Speech-Text Alignment for LLM-based Speech Translation
 - Retrieval-Augmented Speech Recognition Approach for Domain Challenges
@@ -105,6 +106,9 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- Entropy-based Coarse and Compressed Semantic Speech Representation Learning
+- Speech Discrete Tokens or Continuous Features? A Comparative Analysis for Spoken Language Understanding in SpeechLLMs
+  - EMNLP 2025
 - DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models
 - TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling
 - M2D2: Exploring General-purpose Audio-Language Representations Beyond CLAP
@@ -126,6 +130,9 @@
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## benchmark
+- AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs
+- CodecBench: A Comprehensive Benchmark for Acoustic and Semantic Evaluation
+- MTalk-Bench: Evaluating Speech-to-Speech Models in Multi-Turn Dialogues via Arena-style and Rubrics Protocols
 - When Audio and Text Disagree: Benchmarking Text Bias in Large Audio-Language Models under Cross-Modal Inconsistencies
 - MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic Evaluation of Audio General Intelligence
 ## other
@@ -139,4 +146,11 @@
 - SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models
 - What Do Language Models Hear? Probing for Auditory Representations in Language Models
 - PAM: Prompting Audio-Language Models for Audio Quality Assessment
-
+## duplex
+- Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner
+## reason
+- Can Speech LLMs Think while Listening?
+- SHANKS: Simultaneous Hearing and Thinking for Spoken Language Models
+- Mini-Omni-Reasoner: Token-Level Thinking-in-Speaking in Large Speech Models
+## forget
+- Closing the Gap Between Text and Speech Understanding in LLMs
