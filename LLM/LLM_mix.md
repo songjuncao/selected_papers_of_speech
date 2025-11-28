@@ -1,3 +1,4 @@
+- End-to-end Listen, Look, Speak and Act
 - Voxtral
 - DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment
 - Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models

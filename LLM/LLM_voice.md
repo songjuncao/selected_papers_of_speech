@@ -1,4 +1,6 @@
 ## multi-task
+- UALM: Unified Audio Language Model for Understanding, Generation and Reasoning
+- SPUR: A Plug-and-Play Framework for Integrating Spatial Audio Understanding and Reasoning into Large Audio-Language Models
 - LLaSO: A Foundational Framework for Reproducible Research in Large Language and Speech Model
 - Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM
 - ESPnet-SpeechLM: An Open Speech Language Model Toolkit
@@ -62,6 +64,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data
 - Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception
 - Joint decoding method for controllable contextual speech recognition based on Speech LLM
 - Adaptive Inner Speech-Text Alignment for LLM-based Speech Translation
@@ -106,6 +109,7 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization
 - Entropy-based Coarse and Compressed Semantic Speech Representation Learning
 - Speech Discrete Tokens or Continuous Features? A Comparative Analysis for Spoken Language Understanding in SpeechLLMs
   - EMNLP 2025
@@ -130,12 +134,16 @@
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## benchmark
+- ParaS2S: Benchmarking and Aligning Spoken Language Models for Paralinguistic-aware Speech-to-Speech Interaction
+- Speech-DRAME: A Framework for Human-Aligned Benchmarks in Speech Role-Play
+- ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models
 - AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs
 - CodecBench: A Comprehensive Benchmark for Acoustic and Semantic Evaluation
 - MTalk-Bench: Evaluating Speech-to-Speech Models in Multi-Turn Dialogues via Arena-style and Rubrics Protocols
 - When Audio and Text Disagree: Benchmarking Text Bias in Large Audio-Language Models under Cross-Modal Inconsistencies
 - MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic Evaluation of Audio General Intelligence
 ## other
+- Towards General Auditory Intelligence: Large Multimodal Models for Machine Listening and Speaking
 - What do Speech Foundation Models Learn? Analysis and Applications
 - FULL-DUPLEX-BENCH V1.5: Evaluating Overlap Handling for Full-Duplex Speech Models
 - Scaling Analysis of Interleaved Speech-Text Language Models
@@ -147,6 +155,7 @@
 - What Do Language Models Hear? Probing for Auditory Representations in Language Models
 - PAM: Prompting Audio-Language Models for Audio Quality Assessment
 ## duplex
+- MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models
 - Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner
 ## reason
 - Can Speech LLMs Think while Listening?
@@ -154,3 +163,5 @@
 - Mini-Omni-Reasoner: Token-Level Thinking-in-Speaking in Large Speech Models
 ## forget
 - Closing the Gap Between Text and Speech Understanding in LLMs
+## data
+- Data-Centric Lessons To Improve Speech-Language Pretraining
