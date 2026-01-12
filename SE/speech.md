@@ -1,3 +1,4 @@
+- SAM Audio: Segment Anything in Audio
 - ProSE: Diffusion Priors for Speech Enhancement
   - NAACL 2025
 - LLaSE-G1: Incentivizing Generalization Capability for LLaMA-based Speech Enhancement

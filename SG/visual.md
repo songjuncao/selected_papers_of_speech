@@ -1,3 +1,4 @@
+- MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning
 - From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech
   - CVPR 2025
 - Synchronized Video-to-Audio Generation via MelQuantization-Continuum Decomposition

@@ -1,4 +1,6 @@
 ## multi-task
+- MiMo-Audio: Audio Language Models are Few-Shot Learners
+- QuarkAudio Technical Report
 - UALM: Unified Audio Language Model for Understanding, Generation and Reasoning
 - SPUR: A Plug-and-Play Framework for Integrating Spatial Audio Understanding and Reasoning into Large Audio-Language Models
 - LLaSO: A Foundational Framework for Reproducible Research in Large Language and Speech Model
@@ -64,6 +66,7 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Index-ASR Technical Report
 - RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data
 - Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception
 - Joint decoding method for controllable contextual speech recognition based on Speech LLM
@@ -134,6 +137,7 @@
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## benchmark
+- UltraEval-Audio: A Unified Framework for Comprehensive Evaluation of Audio Foundation Models
 - ParaS2S: Benchmarking and Aligning Spoken Language Models for Paralinguistic-aware Speech-to-Speech Interaction
 - Speech-DRAME: A Framework for Human-Aligned Benchmarks in Speech Role-Play
 - ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models
@@ -158,6 +162,7 @@
 - MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models
 - Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner
 ## reason
+- Step-Audio-R1 Technical Report
 - Can Speech LLMs Think while Listening?
 - SHANKS: Simultaneous Hearing and Thinking for Spoken Language Models
 - Mini-Omni-Reasoner: Token-Level Thinking-in-Speaking in Large Speech Models

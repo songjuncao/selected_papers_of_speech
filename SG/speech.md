@@ -105,7 +105,12 @@
 ## frontend
 - On the Effectiveness of Acoustic BPE in Decoder-Only TTS
 
-## expressive
+## style
+- Towards Fine-Grained and Multi-Granular Contrastive Language-Speech Pre-training
+- OV-InstructTTS: Towards Open-Vocabulary Instruct Text-to-Speech
+- SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity
+- Step-Audio-EditX Technical Report
+- UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models
 - VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions
 - FleSpeech: Flexibly Controllable Speech Generation with Various Prompts
 - DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions
@@ -122,4 +127,5 @@
   - NAACL 2025
 
 ## conversation
+= JoyVoice: Long-Context Conditioning for Anthropomorphic Multi-Speaker Conversational Synthesis
 - DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching
