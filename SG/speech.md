@@ -106,6 +106,7 @@
 - On the Effectiveness of Acoustic BPE in Decoder-Only TTS
 
 ## style
+- VoiceSculptor: Your Voice, Designed By You
 - Towards Fine-Grained and Multi-Granular Contrastive Language-Speech Pre-training
 - OV-InstructTTS: Towards Open-Vocabulary Instruct Text-to-Speech
 - SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity

@@ -1,4 +1,5 @@
 ## multi-task
+- AZEROS: Extending LLM to Speech with Self-Generated Instruction-Free Tuning
 - MiMo-Audio: Audio Language Models are Few-Shot Learners
 - QuarkAudio Technical Report
 - UALM: Unified Audio Language Model for Understanding, Generation and Reasoning
@@ -170,3 +171,5 @@
 - Closing the Gap Between Text and Speech Understanding in LLMs
 ## data
 - Data-Centric Lessons To Improve Speech-Language Pretraining
+## agent
+- Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception
