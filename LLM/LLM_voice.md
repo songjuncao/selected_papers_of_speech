@@ -1,4 +1,5 @@
 ## multi-task
+- Covo-Audio Technical Report
 - AZEROS: Extending LLM to Speech with Self-Generated Instruction-Free Tuning
 - MiMo-Audio: Audio Language Models are Few-Shot Learners
 - QuarkAudio Technical Report
@@ -40,6 +41,7 @@
 - VIOLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 ## generation task
+- AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing
 - WavCraft: Audio Editing and Generation with Natural Language Prompts
   - ICLR 2024
 - MuChin: A Chinese Colloquial Description Benchmark for Evaluating Language Models in the Field of Music
@@ -67,6 +69,9 @@
 - LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
 - Textually Pretrained Speech Language Models
 ## ASR/ST
+- Qwen3-ASR Technical Report
+- VIBEVOICE-ASR Technical Report
+- LLM-ForcedAligner: A Non-Autoregressive and Accurate LLM-Based Forced Aligner for Multilingual and Long-Form Speech
 - Index-ASR Technical Report
 - RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data
 - Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception
