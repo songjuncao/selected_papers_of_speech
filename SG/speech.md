@@ -61,7 +61,8 @@
 - BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data
   - Amazon
 - Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like
-## emotion tts
+## emotion & nonverbal
+- NV-Bench: Benchmark of Nonverbal Vocalization Synthesis for Expressive Text-to-Speech Generation
 - EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting
 - PROEMO: Prompt-Driven Text-to-Speech Synthesis Based on Emotion and Intensity Control
 - EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control
@@ -88,6 +89,7 @@
   - ICASSP 2024
 
 ## eval
+- TTS-PRISM: A Perceptual Reasoning and Interpretable Speech Model for Fine-Grained Diagnosis
 - INSTRUCTTTSEVAL: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems
 - VERSA: A Versatile Evaluation Toolkit for Speech, Audio, and Music
 - Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech
@@ -128,5 +130,8 @@
   - NAACL 2025
 
 ## conversation
-= JoyVoice: Long-Context Conditioning for Anthropomorphic Multi-Speaker Conversational Synthesis
+- JoyVoice: Long-Context Conditioning for Anthropomorphic Multi-Speaker Conversational Synthesis
 - DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching
+
+## movie dubbing
+- FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes

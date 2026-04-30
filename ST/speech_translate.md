@@ -1,3 +1,4 @@
+- MoVE: Translating Laughter and Tears via Mixture of Vocalization Experts in Speech-to-Speech Translation
 - Direct Speech-to-Speech Neural Machine Translation: A Survey
 - Recent Advances in End-to-End Simultaneous Speech Translation
 - SeamlessExpressiveLM: Speech Language Model for Expressive Speech-to-Speech Translation with Chain-of-Thought

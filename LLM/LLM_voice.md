@@ -1,4 +1,6 @@
 ## multi-task
+- Hello-Chat: Towards Realistic Social Audio Interactions
+- Eureka-Audio: Triggering Audio Intelligence in Compact Language Models
 - Covo-Audio Technical Report
 - AZEROS: Extending LLM to Speech with Self-Generated Instruction-Free Tuning
 - MiMo-Audio: Audio Language Models are Few-Shot Learners
@@ -118,6 +120,7 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- DashengTokenizer: One layer is enough for unified audio understanding and generation
 - SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization
 - Entropy-based Coarse and Compressed Semantic Speech Representation Learning
 - Speech Discrete Tokens or Continuous Features? A Comparative Analysis for Spoken Language Understanding in SpeechLLMs
@@ -143,6 +146,7 @@
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## benchmark
+- VoxSafeBench: Not Just What Is Said, but Who, How, and Where
 - UltraEval-Audio: A Unified Framework for Comprehensive Evaluation of Audio Foundation Models
 - ParaS2S: Benchmarking and Aligning Spoken Language Models for Paralinguistic-aware Speech-to-Speech Interaction
 - Speech-DRAME: A Framework for Human-Aligned Benchmarks in Speech Role-Play
@@ -165,9 +169,12 @@
 - What Do Language Models Hear? Probing for Auditory Representations in Language Models
 - PAM: Prompting Audio-Language Models for Audio Quality Assessment
 ## duplex
+- SoulX-Duplug: Plug-and-Play Streaming State Prediction Module for Realtime Full-Duplex Speech Conversation
 - MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models
 - Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner
 ## reason
+- Listening with Time: Precise Temporal Awareness for Long-Form Audio Understanding
+- Audio-Cogito: Towards Deep Audio Reasoning in Large Audio Language Models
 - Step-Audio-R1 Technical Report
 - Can Speech LLMs Think while Listening?
 - SHANKS: Simultaneous Hearing and Thinking for Spoken Language Models
