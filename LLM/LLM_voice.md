@@ -146,6 +146,7 @@
 - Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter
 ## benchmark
+- Towards Fine-Grained Multi-Dimensional Speech Understanding: Data Pipeline, Benchmark, and Model
 - VoxSafeBench: Not Just What Is Said, but Who, How, and Where
 - UltraEval-Audio: A Unified Framework for Comprehensive Evaluation of Audio Foundation Models
 - ParaS2S: Benchmarking and Aligning Spoken Language Models for Paralinguistic-aware Speech-to-Speech Interaction
@@ -173,6 +174,7 @@
 - MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models
 - Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner
 ## reason
+- Continuous Audio Thinking for Large Audio Language Models
 - Listening with Time: Precise Temporal Awareness for Long-Form Audio Understanding
 - Audio-Cogito: Towards Deep Audio Reasoning in Large Audio Language Models
 - Step-Audio-R1 Technical Report

@@ -14,6 +14,8 @@
 - VoxGenesis: Unsupervised Discovery of Latent Speaker Manifold for Speech Synthesis
 - On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models
 ## LLM
+- dots.tts Technical Report
+- VoxCPM2 Technical Report
 - VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
 - FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot
 - TTS-1 Technical Report
@@ -31,6 +33,7 @@
 - Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis
 - Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness
 ## zero-shot
+- WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling
 - DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation
 - CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training
 - F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization
@@ -81,6 +84,7 @@
 - VoiceShop: A Unified Speech-to-Speech Framework for Identity-Preserving Zero-Shot Voice Editing
 
 ## multi-lingual
+- X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning
 - CrossSpeech++: Cross-lingual Speech Synthesis with Decoupled Language and Speaker Generation
 - Text-Inductive Graphone-Based Language Adaptation for Low-Resource Speech Synthesis
   - TASLP

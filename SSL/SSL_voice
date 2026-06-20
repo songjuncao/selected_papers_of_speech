@@ -1,4 +1,5 @@
 ## speech
+- WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling
 - Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation
 - SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations
 - Eta-WavLM: Efficient Speaker Identity Removal in Self-Supervised Speech Representations Using a Simple Linear Equation
