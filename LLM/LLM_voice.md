@@ -120,6 +120,7 @@
 - SLM: BRIDGE THE THIN GAP BETWEEN SPEECH AND TEXT FOUNDATION MODELS
 - Listen, Think, and Understand
 ## codec
+- Qwen-Audio-VAE Technical Report
 - DashengTokenizer: One layer is enough for unified audio understanding and generation
 - SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization
 - Entropy-based Coarse and Compressed Semantic Speech Representation Learning
@@ -174,6 +175,7 @@
 - MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models
 - Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner
 ## reason
+- GigaChat Audio: Time-aware Large Audio Language Model
 - Continuous Audio Thinking for Large Audio Language Models
 - Listening with Time: Precise Temporal Awareness for Long-Form Audio Understanding
 - Audio-Cogito: Towards Deep Audio Reasoning in Large Audio Language Models
@@ -187,3 +189,5 @@
 - Data-Centric Lessons To Improve Speech-Language Pretraining
 ## agent
 - Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception
+## inference
+- An Efficient vLLM-Based Inference Pipeline for Unified Audio Understanding and Generation

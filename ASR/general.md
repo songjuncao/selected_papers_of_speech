@@ -11,3 +11,7 @@
 
 ## multi-modal
 - OCR-Enhanced Multimodal ASR Can Read While Listening
+
+## non-verbal
+- WESR: Scaling and Evaluating Word-level Event-Speech Recognition
+- Beyond Words: Towards Effective Modeling of Non-Verbal Vocalizations in ASR

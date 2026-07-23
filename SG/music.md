@@ -1,3 +1,4 @@
+- Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering
 - Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation
 - FilmComposer: LLM-Driven Music Production for Silent Film Clips
 - YuE: Scaling Open Foundation Models for Long-Form Music Generation

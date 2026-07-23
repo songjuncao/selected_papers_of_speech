@@ -65,6 +65,7 @@
   - Amazon
 - Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like
 ## emotion & nonverbal
+- HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech
 - NV-Bench: Benchmark of Nonverbal Vocalization Synthesis for Expressive Text-to-Speech Generation
 - EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting
 - PROEMO: Prompt-Driven Text-to-Speech Synthesis Based on Emotion and Intensity Control
